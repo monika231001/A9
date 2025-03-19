@@ -1,4 +1,4 @@
-AI-Powered Robot with Line Detection & Web Control
+Buggybrain - Intelligent Mobility with Real-Time Assistance.
 
 📋 High-Level Requirements (HLRs)
 
